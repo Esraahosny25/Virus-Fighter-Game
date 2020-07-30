@@ -12,7 +12,7 @@ import com.badlogic.gdx.physics.box2d.Body;
 
 import java.util.ArrayList;
 
-//Weapon
+//Weapons
 public abstract class Weapon {
 	public static final int speed = 450;
 	public Boolean remove = false;
