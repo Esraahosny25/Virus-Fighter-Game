@@ -1,7 +1,7 @@
 # Virus-Fighter-Game
 It's a 2D Game about a fighter that tries to kill viruses that enters the body 
 It has 2 levels Easy and Hard.
-- Easy
+- Easy </br>
 The Virus are more easy to be killed by only one bullet/bomb except one viruse needs two to be killed.
 - Hard
 The Virus are more powerful that needs two bullets/bomb or more to killed.
